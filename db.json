@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Harland Lohora",
+      "email": "harland@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Pedro Nava",
+      "email": "pedron@alura.com",
+      "id": "245e71ad-8587-4368-86ea-9d36f8142068"
+    },
+    {
+      "nombre": "Gabriela Luna",
+      "email": "gabriela@alura.com",
+      "id": "6f2c58cf-838d-4eae-9a7a-b8ed62a1317e"
+    }
+  ]
+}
